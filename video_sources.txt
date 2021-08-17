@@ -1,0 +1,8 @@
+Japanese DVDs: faded left/right borders, mpeg2, has japanese credits
+
+AoD (German): slightly zoomed in compared to jpdvd but clean edges, very blurry (from bad deinterlacing?), creditless opening, english credited ending, german hardsubbed typesetting (e.g. character cards), sometimes pixelated from bad deinterlacing, no "ad-door" in the middle and no "next conan's hint"
+Season 4 uses a component master internationally, while the Japanese DVD used a composite master. This looks better on AoD
+
+VIU: *uncropped* japanese credited master, has more detail than DVD except for scenes where compression destroyed it worse than jpdvd, sometimes interlaced with compression that makes it impossible to deinterlace, sometimes badly deinterlaced
+
+Super3 (Catalan): international master, at times more detail than DVD
