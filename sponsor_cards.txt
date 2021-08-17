@@ -1,0 +1,136 @@
+SD
+
+368 Sonoko/Ran (noogie)  @NTV+ 395
+369 Ran/Shin'ichi (phone)  @NTV+ 394
+370 Sato/Takagi/Megure (left)  @NTV+ 396
+371 Ran/Shin'ichi (phone)  @NTV+ 394
+372 Ran/Shin'ichi (phone)  @NTV+ 394
+373 Sato/Takagi/Megure/Kogoro/Shiratori (right)
+374 Sonoko/Ran (noogie)  @NTV+ 395
+375 Ran/Shin'ichi (phone)  @NTV+ 394
+376 Sonoko/Ran (noogie)  @NTV+ 395
+377 Sato/Takagi/Megure/Kogoro/Shiratori (right)
+378 Sonoko/Ran (noogie)  @NTV+ 395
+379 Ran/Shin'ichi (phone)  @NTV+ 394
+380 Sonoko/Ran (noogie)  @NTV+ 395
+381 Sato/Takagi/Megure/Kogoro/Shiratori (right)
+382 Sato/Takagi/Megure (left)  @NTV+ 396
+384 Sato/Takagi/Megure/Kogoro/Shiratori (right)
+385 Ran/Shin'ichi (phone)  @NTV+ 394
+386 Sonoko/Ran (noogie)  @NTV+ 395
+387 Sato/Takagi/Megure (left)  @NTV+ 396
+388 Sonoko/Ran (noogie)  @NTV+ 395
+389 Sonoko/Ran (noogie)  @NTV+ 395
+390 Sato/Takagi/Megure (left)  @NTV+ 396
+391 Sato/Takagi/Megure/Kogoro/Shiratori (right)
+392 Sato/Takagi/Megure (left)  @NTV+ 396
+393 Sato/Takagi/Megure/Kogoro/Shiratori (right)
+394 Ran/Shin'ichi (phone)  @NTV+ 394
+395 Sonoko/Ran (noogie)  @NTV+ 395
+396 Sato/Takagi/Megure (left)  @NTV+ 396
+397 Sato/Takagi/Megure (left)  @NTV+ 396
+398 Sato/Takagi/Megure (left)  @NTV+ 396
+399 Ran/Shin'ichi (phone)  @NTV+ 394
+400 Ran/Shin'ichi (phone)  @NTV+ 394
+401 Sato/Takagi/Megure (left)  @NTV+ 396
+402 Sato/Takagi/Megure/Kogoro/Shiratori (right)
+403 Sato/Takagi/Megure (left)  @NTV+ 396
+404 Sonoko/Ran (noogie)  @NTV+ 395
+405 Sato/Takagi/Megure/Kogoro/Shiratori (right)
+406 Ran/Shin'ichi (phone)  @NTV+ 394
+407 Heiji/Kazuha
+408 Shin'ichi/Conan running  @NTV+ 437
+409 Sonoko/Ran (noogie)  @NTV+ 395
+410 Kogoro
+411 Ran/Shin'ichi (phone)  @NTV+ 394
+412 STD
+413 Sato/Takagi/Megure/Kogoro/Shiratori (right)
+414 STD
+415 Shin'ichi/Conan running  @NTV+ 437
+416 Kogoro
+417 Ran/Shin'ichi (phone)  @NTV+ 394
+418 STD
+419 Ran/Shin'ichi (phone)  @NTV+ 394
+420 Kogoro
+421 STD
+422 STD
+423 Sato/Takagi/Megure (left)  @NTV+ 396
+424 Sato/Takagi/Megure (left)  @NTV+ 396
+426 Sonoko/Ran (noogie)  @NTV+ 395
+427 STD
+428 STD
+429 Sonoko/Ran (noogie)  @NTV+ 395
+430 Kogoro
+431 Sato/Takagi/Megure (left)  @NTV+ 396
+432 Sato/Takagi/Megure/Kogoro/Shiratori (right)
+433 Kogoro
+434 Ran/Shin'ichi (phone)  @NTV+ 394
+435 STD
+436 STD
+437 Shin'ichi/Conan running  @NTV+ 437
+438 Kogoro
+439 Sato/Takagi/Megure/Kogoro/Shiratori (right)
+440 STD
+441 Sato/Takagi/Megure (left)  @NTV+ 396
+442 Shin'ichi/Conan running  @NTV+ 437
+443 STD
+444 STD
+445 Kogoro
+446 Shin'ichi/Conan running  @NTV+ 437
+447 Sonoko/Ran (noogie)  @NTV+ 395
+448 Sato/Takagi/Megure/Kogoro/Shiratori (right)
+450 Kogoro
+451 Sato/Takagi/Megure (left)  @NTV+ 396
+
+HD
+
+453 STD
+454 STD
+455 STD
+456*Kogoro
+457*Sonoko/Ran (noogie)
+458*Ran/Shin'ichi (phone)
+459*Sato/Takagi/Megure (left)
+460 STD
+461 STD
+462*Ran/Shin'ichi (phone)
+463*Kogoro
+464?
+465*Sato/Takagi/Megure (left)
+466 STD
+467?
+468 STD
+469*Sato/Takagi/Megure (left)
+470*Kogoro
+471 Sato/Takagi/Megure/Kogoro/Shiratori (right)
+472*Ran/Shin'ichi (phone)
+473*Sonoko/Ran (noogie)
+474*Kogoro
+475*Kogoro
+476 STD
+477 Sato/Takagi/Megure/Kogoro/Shiratori (right)
+478 Sato/Takagi/Megure/Kogoro/Shiratori (right)
+480*Kogoro
+481 STD
+482 STD
+483 STD
+484*Ran/Shin'ichi (phone)
+485*Ran/Shin'ichi (phone)
+486 Sato/Takagi/Megure/Kogoro/Shiratori (right)
+
+Yukidoki no ano kawa no nagare no you ni - confirmed
+
+491 Heiji/Kazuha
+492 Sonoko/Ran (noogie)
+493 Kogoro
+494 Kogoro
+495 Ran/Shin'ichi (phone)
+496 Ran/Shin'ichi (phone)
+497 Ran/Shin'ichi (phone)
+498 Kogoro
+499 Ran/Shin'ichi (phone)
+500 Ran/Shin'ichi (phone)
+501 Sato/Takagi/Megure (left)
+502 Sato/Takagi/Megure (left)
+503 Sato/Takagi/Megure (left)
+504 Black Organization (probably custom)
